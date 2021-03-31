@@ -1,0 +1,473 @@
+{
+    "tvshows": [
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                },
+                {
+                    "episode": 5,
+                    "season": 2,
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "Mandalorian ", 
+            "tmdbid": 82856
+        }, 
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "The Umbrella Academy", 
+            "tmdbid": 75006
+        }, 
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "The Boys", 
+            "tmdbid": 76479
+        },
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                },
+                {
+                    "episode": 5,
+                    "season": 2,
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "the vikings", 
+            "tmdbid": 44217
+        },
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                },
+                {
+                    "episode": 5,
+                    "season": 2,
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "star wars clone wars", 
+            "tmdbid": 3122
+        },
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 1, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 2, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                },
+                {
+                    "episode": 5,
+                    "season": 2,
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "game of thrones", 
+            "tmdbid": 1399
+        },
+        {
+            "backdrop": "", 
+            "episodes": [
+                {
+                    "episode": 1, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 2, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 3, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }, 
+                {
+                    "episode": 4, 
+                    "season": 1, 
+                    "stream": [
+                        "http://something.com"
+                    ]
+                }
+            ], 
+            "genre": [], 
+            "overview": "", 
+            "poster": "", 
+            "releasedate": "", 
+            "title": "the simpsons", 
+            "tmdbid": 85271
+        }  
+    ]
+}
