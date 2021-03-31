@@ -1,0 +1,44 @@
+# Kodi Media Center language file
+# Addon Name: OKA GUI
+# Addon id: plugin.video.bybexample
+# Addon Provider: BYB
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+######-----Settings-----#####
+
+msgctxt "#32003"
+msgid "Region"
+msgstr ""
+
+msgctxt "#32004"
+msgid "UK"
+msgstr ""
+
+msgctxt "#32005"
+msgid "USA"
+msgstr ""
+
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Event logging"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Debug"
+msgstr ""
