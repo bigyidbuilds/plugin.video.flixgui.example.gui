@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+	<defaultcontrol always="false">0</defaultcontrol>
+	<menucontrol>0</menucontrol>
+	<backgroundcolor>0</backgroundcolor>
+	<animation effect="fade" time="200">WindowOpen</animation>
+	<animation effect="fade" time="200">WindowClose</animation>
+	<coordinates>
+		<left>0</left>
+		<top>0</top>
+	</coordinates>
+	<controls>
+		<control type="image" id="1000">
+			<width>100%</width>
+			<height>100%</height>
+			<aspectratio>scale</aspectratio>
+		</control>
+		<control type="image" id="1001">
+			<left>100</left>
+			<top>400</top>
+			<width>300</width>
+			<height>300</height>
+		</control>
+		<control type="image" id="1002">
+			<left>100</left>
+			<top>100</top>
+			<width>600</width>
+			<height>400</height>
+			<aspectratio>keep</aspectratio>
+		</control>
+		<control type="group" id="2000">
+			<description>progress</description>
+			<left>740</left>
+			<top>400</top>
+			<width>410</width>
+			<height>160</height>
+			<control type="image" id="2001">
+				<texture border="5">rc-white-100.png</texture>
+				<colordiffuse>$INFO[Window.Property(THEMECOLOR)]</colordiffuse>
+			</control>
+			<control type="image" id="2002">
+				<left>5</left>
+				<top>5</top>
+				<width>400</width>
+				<height>150</height>
+				<texture border="5">rc-white-100.png</texture>
+				<colordiffuse>$INFO[Window.Property(COLOR1)]</colordiffuse>
+			</control>
+			<control type="group">
+				<left>10</left>
+				<top>10</top>
+				<control type="label" id="2003">
+					<width>390</width>
+					<height>65</height>
+					<wrapmultiline>false</wrapmultiline>
+					<font>font13</font>
+					<textcolor>$INFO[Window.Property(THEMECOLOR)]</textcolor>
+					<aligny>bottom</aligny>
+				</control>
+				<control type="progress" id="2004">
+					<top>67.5</top>
+					<width>390</width>
+					<height>5</height>
+					<visible>true</visible>
+					<reveal>true</reveal>
+					<texturebg colordiffuse="$INFO[Window.Property(COLOR2)]" >white-100.png</texturebg>
+					<lefttexture></lefttexture>
+					<midtexture colordiffuse="$INFO[Window.Property(THEMECOLOR)]">white-100.png</midtexture>
+					<righttexture></righttexture>
+					<overlaytexture></overlaytexture>
+				</control>
+			</control>
+			<control type="group" id='2005'>
+				<left>10</left>
+				<top>80</top>
+				<control type="label" id="2006">
+					<width>390</width>
+					<height>65</height>
+					<wrapmultiline>false</wrapmultiline>
+					<font>font13</font>
+					<textcolor>$INFO[Window.Property(THEMECOLOR)]</textcolor>
+					<aligny>bottom</aligny>
+				</control>
+				<control type="progress" id="2007">
+					<top>67.5</top>
+					<width>390</width>
+					<height>5</height>
+					<visible>true</visible>
+					<reveal>true</reveal>
+					<texturebg colordiffuse="$INFO[Window.Property(COLOR2)]" >white-100.png</texturebg>
+					<lefttexture></lefttexture>
+					<midtexture colordiffuse="$INFO[Window.Property(THEMECOLOR)]">white-100.png</midtexture>
+					<righttexture></righttexture>
+					<overlaytexture></overlaytexture>
+				</control>
+			</control>
+		</control>
+	</controls>
+</window>
